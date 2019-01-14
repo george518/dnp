@@ -131,7 +131,7 @@ ini_set('display_errors', 'on');
 3. 重启PHP-FPM容器。
 
 
-## 6.使用composer
+## 5.使用composer
 **我们建议在主机HOST中使用composer，避免PHP容器变得庞大**。
 1. 在主机创建一个目录，用以保存composer的配置和缓存文件：
     ```
@@ -179,7 +179,7 @@ ini_set('display_errors', 'on');
 
     ```
 
-    
+
 ## License
 MIT
 
